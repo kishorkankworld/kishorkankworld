@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kishor Kumar Munna, Developer
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Kishor,A Developer with brutal practices
+- 👀 I’m interested in reading whatever it is.
 - 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on Key Developers Project
+- 💞️ I’m looking to collaborate on Android App Development Project
 - 📫 How to reach me 
 
 <!---
